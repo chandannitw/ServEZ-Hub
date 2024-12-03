@@ -1,0 +1,23 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+.App {
+    min-height: 100vh; /* Use min-height to ensure it fills the screen */
+    display: flex;
+    flex-direction: column; /* Ensure children stack vertically if needed */
+}
+
+/* Light green theme background */
+body, .App {
+    background: #e3f9e5; /* Light green background */
+    font-family: Arial, sans-serif;
+    color: #333; /* A darker color for text for better readability */
+}
+
+/* Optional: Add a subtle pattern or texture for more depth */
+.App {
+    background-image: url('path/to/your/pattern.png'); /* Add a pattern image if desired */
+    background-size: cover; /* Make sure it covers the entire background */
+}

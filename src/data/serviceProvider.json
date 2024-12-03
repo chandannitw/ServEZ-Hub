@@ -1,0 +1,453 @@
+{
+    "serviceProviders": [
+      {
+        "id": 1,
+        "img":"https://images.ctfassets.net/vwt5n1ljn95x/51s0CVltl03F7bOfy31VXB/8a5adaf0c64e789c7f202329724806c0/Home_Apartment_Cleaning.jpg?w=1920&q=75&fm=webp",
+        "name": "John's Cleaning Services",
+        "serviceType": "Cleaning",
+        "location": "City A",
+        "availability": "Monday to Friday",
+        "rating": 4.5,
+        "hourlyRate": 20,
+        "about":"Please keep in mind that all taskers have until 9pm to schedule a task, so be conscious of when you put a request so that it doesn't cancel because we had too little time. I'm always busy and don't want anyone to think I am rejecting their task without communication. Sending me a message will help the notification as well. Other than that first snippet, I enjoy doing things differently than most people's average day, and I have more potential to help someone out than I would if I were solely working a payroll job. I also enjoy getting to see what I am in for, for each day. (I'm a secret service agent, here to do secret service agent stuff. It's in parentheses because it's a secret. I deliver classified documents, complete classified yard work, fight through classified plant missions, and only shed some classified tears.)",
+        "skill":"Cleaning? I've been cleaning since I was born. Do I enjoy cleaning? As a teenager, I can assure you, I did not. As an adult? I can assure you that cleaning is one of my favorite things to do. Especially when it is a particularly difficult job, because I enjoy the process, thinking of better ways to clean, and then the end result. You'll probably enjoy it as much as I do after seeing the finished product once I am done.",
+        "reviews":[
+          {
+            "name": "Holland F.",
+            "rating": 5.0,
+            "service": "CLEANING",
+            "date": "Fri, Nov 24",
+            "comment": "Jaicie did an amazing job cleaning my apartment after I moved out! Brought all of her own supplies and made it so I didn’t have to worry about anything. Definitely recommend!"
+          },
+          {
+            "name": "Rand F.",
+            "rating": 5.0,
+            "service": "CLEANING",
+            "date": "Sun, Nov 19",
+            "comment": "Highly recommend!! trust me, she is the best!"
+          },
+          {
+            "name": "Rosemary L.",
+            "rating": 5.0,
+            "service": "CLEANING",
+            "date": "Fri, Nov 17",
+            "comment": " They went above and beyond my expectations. I would definitely book them again in the future. Highly recommend!"
+          },
+          {
+            "name": "Anne S.",
+            "rating": 5.0,
+            "service": "CLEANING",
+            "date": "Mon, Nov 13",
+            "comment": "She is wonderful to work with."
+          },
+          {
+            "name": "Meredith E.",
+            "rating": 5.0,
+            "service": "CLEANING",
+            "date": "Mon, Nov 13",
+            "comment": "Jaicie did a great job deep cleaning my home before my renters moved in! They went above and beyond my expectations. I would definitely book them again in the future. Highly recommend!"
+          }
+        ]
+        
+      },
+      {
+        "id": 2,
+        "img":"https://images.ctfassets.net/vwt5n1ljn95x/2vw8Ct7BWBT12032WBzVyf/95a09ecc4ddad228699c0e907f9f85a1/Minor_Plumbing_Repairs.jpg?w=1920&q=75&fm=webp",
+        "name": "Alice's Plumbing Solutions",
+        "serviceType": "Plumbing",
+        "location": "City B",
+        "availability": "Weekends",
+        "rating": 4.8,
+        "hourlyRate": 25,
+        "about":"I am a full time Tasker ; I am originally from Venezuela. I have been doing these skills from a long time on my country ; I have all the tools for the jobs; now I’m here in colorado I am available to help every body who needs me thank you so much if hire me I’m fully vaccinated I’m a pet friendly",
+        "skill":"I have over 20 years of experience in construction and am skilled in replacing or fixing faucets, shower fixtures, toilets, dishwashers, leaky valves, and drains. I'm insured and you should make sure any one you hire on here is. I'll bring my own tools, and work efficiently until the job is complete to the customers standards. I'm proficient at most small home repairs, so feel free to ask questions if you have them. Thank you for your consideration.",
+        "reviews":[
+          {
+            "name": "Ruben D.",
+            "rating": 5.0,
+            "service": "ELECTRICAL HELP",
+            "date": "Mon, May 15",
+            "comment": "2nd time to use Jordan and he is great! Would request him again if needed as he knows how to do several things including plumbing, electrical, and all handyman stuff! TY!"
+          },
+          {
+            "name": "Mariella G.",
+            "rating": 5.0,
+            "service": "PLUMBING HELP",
+            "date": "Wed, May 10",
+            "comment": "Jordan was wonderful! Very professional and communicative! Did a great job with our plumbing needs."
+          },
+          {
+            "name": "Sybil F.",
+            "rating": 5.0,
+            "service": "LIGHT CARPENTRY",
+            "date": "Fri, May 5",
+            "comment": "Jordan is fast, honest and has great attention to detail. Would hire him again!"
+          },
+          {
+            "name": "Robert S.",
+            "rating": 5.0,
+            "service": "PLUMBING HELP",
+            "date": "Mon, May 1",
+            "comment": "Jordan arrived punctually, was polite, professional and worked efficiently. I was very pleased with his expertise and would highly recommend him."
+          },
+          {
+            "name": "Joseph L.",
+            "rating": 5.0,
+            "service": "ELECTRICAL HELP",
+            "date": "Sat, Apr 29",
+            "comment": "Jordan did a great job on my project. He showed up on time, was so personable and professional, and completed the ceiling fan installation quickly and efficiently. I couldn't be happier with the job he did. I would definitely start with him for any future jobs. do the same with this"
+          }
+        ]
+        
+      },
+      {
+        "id": 3,
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZ1Ex6iYLjtQE69vQdVYCrvRCZ-OD0xSpyQ&usqp=CAU",
+        "name": "Ella's Gardening Services",
+        "serviceType": "Gardening",
+        "location": "City C",
+        "availability": "Tuesday to Thursday",
+        "rating": 4.2,
+        "hourlyRate": 18,
+        "about":"Hard working Denver native who is very experienced in completing any project thrown my way. 10+ years experience in landscaping, 3+ years experience in the construction industry. Very detail oriented, professional and take pride in my work. Comfortable in completing any task no matter how big or small. Let’s chat about the task details so I can come prepared with all the necessary tools! Flexible on timing of jobs and can usually start asap",
+        "skill":"10+yrs landscaping experience. Specialize in yard cleanups, weeding, trimming, snow/ice Etc. I bring my own hand tools, pruners large and small, eco friendly electric tools, leaf blowers, weed whacker, hedge trimmer, sawzall, rake/shovels, extra bags to complete the job (don't own a mower but can mow if ones provided) and I make sure to cleanup with my leaf blower! Also own a 18 foot ladder and can do first story gutter cleaning on homes and garages! Look forward to our first task",
+        "reviews":[
+          {
+            "name": "Arleen M.",
+            "rating": 5.0,
+            "service": "YARD WORK",
+            "date": "Mon, Jun 29, 2020",
+            "comment": "Tom did a fabulous job! Was prompt, thorough, friendly and professional. Would def hire again."
+          },
+          {
+            "name": "Anne Marie A.",
+            "rating": 5.0,
+            "service": "YARD WORK",
+            "date": "Fri, Jun 26, 2020",
+            "comment": "Tom was awesome. I hired him to dig up some dead bushes, which didn’t take long, but he went above and beyond, pulling a bunch of weeds and doing other stuff to tidy my front yard. Would definitely recommend him and will likely hire him again!"
+          },
+          {
+            "name": "Annie F.",
+            "rating": 5.0,
+            "service": "YARD WORK",
+            "date": "Tue, Jun 23, 2020",
+            "comment": "Tom was very responsive, thorough, and completed our project exactly as needed. I would recommend Tom and hope to work with him again."
+          },
+          {
+            "name": "Megan P.",
+            "rating": 5.0,
+            "service": "YARD WORK",
+            "date": "Wed, Jun 17, 2020",
+            "comment": "Tom did a fantastic job at our house- weeding and adjusting our sprinklers. He even came back to fix a sprinkler head. Highly recommend!"
+          },
+          {
+            "name": "Kieran A.",
+            "rating": 5.0,
+            "service": "YARD WORK",
+            "date": "Wed, Jun 17, 2020",
+            "comment": "Great work. Would hire again! do the same"
+          }
+        ]
+        
+      },
+      {
+        "id": 4,
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkkAwhXBWzdbZMZOVznxhM8C4ot8iVGF7gBw&usqp=CAU",
+        "name": "Sam's Carpentry Works",
+        "serviceType": "Carpentry",
+        "location": "City D",
+        "availability": "Monday, Wednesday",
+        "rating": 4.6,
+        "hourlyRate": 28,
+        "about":"Being on EZService supports my small business. I do carpentry, plumbing, and electrical outside the wall, mounting, and assembly. I drive a Ford Excursion, which is big enough to fit full sheets of drywall and plywood. I also have a landscaping trailer, which I can use to haul items, although I mostly use it to haul around a welder-generator and a workbench to offer welding services.",
+        "skill":"Dedicated and skilled handyman with years of experience in efficient and accurate general construction and handyman work (drywall, paint, woodworking, minor plumbing, etc.). Proven track record of providing exceptional service to clients by combining technical expertise with excellent customer service. Able to supply and effectively utilize a comprehensive set of tools for optimal and efficient results. I would love to help you get your job done",
+        "reviews":[
+          {
+            "name": "David D.",
+            "rating": 5.0,
+            "service": "LIGHT CARPENTRY",
+            "date": "Fri, Jun 19, 2020",
+            "comment": "Roberto was very good, knew what he was doing. You could tell he has done this kind"
+          },
+          {
+            "name": "Raji G.",
+            "rating": 5.0,
+            "service": "MINOR HOME REPAIRS",
+            "date": "Fri, Jun 5, 2020",
+            "comment": "Thanks for painting our bathroom ceiling and drywall."
+          },
+          {
+            "name": "Latashia M.",
+            "rating": 5.0,
+            "service": "LIGHT CARPENTRY",
+            "date": "Wed, May 20, 2020",
+            "comment": "Roberto was an absolute perfectionist! He rebuilt my kitchen drawer, brought his own tools (including workbench), cleaned up after himself, and (especially during this time of COVID-19) wore a mask anytime he entered my home! 10 STARS!"
+          },
+          {
+            "name": "Ashley L.",
+            "rating": 5.0,
+            "service": "MINOR HOME REPAIRS",
+            "date": "Wed, May 20, 2020",
+            "comment": "He was very quick and nice."
+          },
+          {
+            "name": "flora b.",
+            "rating": 5.0,
+            "service": "MINOR HOME REPAIRS",
+            "date": "Mon, May 18, 2020",
+            "comment": "Roberto was very good, knew what he was doing. You could tell he has done this kind of work before, I was very pleased. He took down the old ceiling fan and put the new one up like it was nothing. do the same"
+          }
+        ]
+        
+      },
+      {
+        "id": 5,
+        "img":"https://images.ctfassets.net/vwt5n1ljn95x/15JB3WRwRtvEsf5rcVKmnK/c3291ce040c0ead3ae3973fa53e5fa6f/Furniture_Assembly.jpg?w=1920&q=75&fm=webp",
+        "name": "David's Moving Services",
+        "serviceType": "Moving",
+        "location": "City E",
+        "availability": "Weekdays",
+        "rating": 4.3,
+        "hourlyRate": 35,
+        "skill":"Hello. Thanks for thinking of me. I have all the tools and patience to assemble those pieces. I have assembled many products for family and friends. They know I’m the person to call. Thanks again!",
+        "about":"Hello. I’m new to Tasker, but if you give me a chance I will not disappoint you. I’m a Tasker because I truly enjoy helping people. I enjoy meeting new people and taking care of the task they either don’t want to do or don’t know how to do.",
+        "reviews": [
+          {
+            "name": "Carrie Z.",
+            "rating": 5.0,
+            "service": "FURNITURE ASSEMBLY",
+            "date": "Tue, Nov 21",
+            "comment": "Andrew was punctual, efficient, kind, thorough, and proactive. I was so impressed by his customer service and overall quality."
+          },
+          {
+            "name": "Catherine O.",
+            "rating": 5.0,
+            "service": "FURNITURE ASSEMBLY",
+            "date": "Fri, Nov 17",
+            "comment": "Andrew was a great worker! He did a terrific job!"
+          },
+          {
+            "name": "Jason H.",
+            "rating": 5.0,
+            "service": "IKEA ASSEMBLY",
+            "date": "Mon, Nov 13",
+            "comment": "Andrew was excellent, knew what he was doing and a generally nice guy. Got the bedroom set up and ready. Would definitely recommend him👍"
+          },
+          {
+            "name": "Clarissa T.",
+            "rating": 5.0,
+            "service": "FURNITURE ASSEMBLY",
+            "date": "Sun, Nov 12",
+            "comment": "Andrew was great to work with. Assembly went smoothly and he was very creative in getting it relocated to the small room where the counter belongs. Plus he did it in a tight time frame to accommodate me and I really appreciate how conscious of that he was throughout."
+          },
+          {
+            "name": "Jessica L.",
+            "rating": 5.0,
+            "service": "FURNITURE ASSEMBLY",
+            "date": "Fri, Nov 3",
+            "comment": "Andrew was excellent. He quickly assembled a bed for us, hung up pictures and a very heavy mirror and helped with a few minor fix its around the house.. he was fast, effective and knowledgeable. would definitely hire him again!"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqwCnT3gNx3VCQrqUJzGI6pO6iNFAHBHiJ4g&usqp=CAU",
+        "name": "Sophie's Dog Walking",
+        "serviceType": "Pet Care",
+        "location": "City F",
+        "availability": "Daily",
+        "rating": 4.9,
+        "hourlyRate": 15,
+        "about":"Hi! I am a hard worker with extensive experience in several industries related to many of the tasks I offer. I live to please, and I love the satisfaction of standing back and soaking in a job-well-done. I am desperately hoping to fund a road trip.",
+        "skill":"Hi, I would like the opportunity to care for your fur baby(s). I've had many throughout my life. As a mature older person, I have much experience in caregiving. I have grandchildren also. Large farm exp. birthing, tending, feeding, babies, etc. Critters of all types. With being a freelance caregiver and Tasker I've the freedom to come and go. Call or text. Very busy. So, please give adequate time to prepare. Thank you for your time. Sharon Baker",
+        "reviews":[
+          {
+            "name": "David D.",
+            "rating": 5.0,
+            "service": "LIGHT CARPENTRY",
+            "date": "Fri, Jun 19, 2020",
+            "comment": "..."
+          },
+          {
+            "name": "Raji G.",
+            "rating": 5.0,
+            "service": "MINOR HOME REPAIRS",
+            "date": "Fri, Jun 5, 2020",
+            "comment": "Thanks for painting our bathroom ceiling and drywall."
+          },
+          {
+            "name": "Latashia M.",
+            "rating": 5.0,
+            "service": "LIGHT CARPENTRY",
+            "date": "Wed, May 20, 2020",
+            "comment": "Roberto was an absolute perfectionist! He rebuilt my kitchen drawer, brought his own tools (including workbench), cleaned up after himself, and (especially during this time of COVID-19) wore a mask anytime he entered my home! 10 STARS!"
+          },
+          {
+            "name": "Ashley L.",
+            "rating": 5.0,
+            "service": "MINOR HOME REPAIRS",
+            "date": "Wed, May 20, 2020",
+            "comment": "He was very quick and nice."
+          },
+          {
+            "name": "flora b.",
+            "rating": 5.0,
+            "service": "MINOR HOME REPAIRS",
+            "date": "Mon, May 18, 2020",
+            "comment": "Roberto was very good, knew what he was doing. You could tell he has done this kind of work before, I was very pleased. He took down the old ceiling fan and put the new one up like it was nothing. do the same"
+          }
+        ]
+        
+      },
+      {
+        "id": 7,
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSchQM93Roekj4rCtSUKCLqwfG1dIfXhFwTzQ&usqp=CAU",
+        "name": "Mark's Computer Repair",
+        "serviceType": "IT Services",
+        "location": "City G",
+        "availability": "Monday, Thursday",
+        "rating": 4.7,
+        "hourlyRate": 40,
+        "about":"✅My priority is the service and reliability of completed orders for my clients, I have more than 11 years of experience 👷‍♂️working with electricians💡🔌 in homes and factories with electrical installations and complex equipment, I am ready to work and ready to do quality work for this I have enough different professional 🛠️ I’m very pet loving and friendly especially with dogs and cats 🐶🐱And sorry I don’t have a stepladder yet!😞",
+        "skill":"✅ 👷‍♂️ My experience of more than 11 years as an electrician in various fields, such as remodeling apartments in luxury apartments in Manhattan, work in office space or work in large factories, is ready to add my experience to solve any problem related to electricity and not only because I have additional experience in different areas! 🔌💡and sorry I don’t have a stepladder yet❌",
+        "reviews":[
+          {
+            "name": "Mary B.",
+            "rating": 5.0,
+            "service": "ELECTRICAL HELP",
+            "date": "Wed, Nov 22",
+            "comment": "Petr arrived early, was so pleasant and was extremely knowledgeable and efficient."
+          },
+          {
+            "name": "Patrick F.",
+            "rating": 5.0,
+            "service": "ELECTRICAL HELP",
+            "date": "Mon, Nov 20",
+            "comment": "Petr was great! Efficient, courteous, and respectful of my space. And the light fixture looks great!"
+          },
+          {
+            "name": "JUSTIN G.",
+            "rating": 5.0,
+            "service": "ELECTRICAL HELP",
+            "date": "Mon, Nov 20",
+            "comment": "Petr was great to work with. Very responsive, on time and recommended parts to purchase before our project."
+          },
+          {
+            "name": "Stephanie T.",
+            "rating": 5.0,
+            "service": "ELECTRICAL HELP",
+            "date": "Mon, Nov 20",
+            "comment": "Petr was available day-of, communicative, professional, quick, and did a great job installing/replacing all light fixtures. I’ll definitely hire him again for any future electrical needs!"
+          },
+          {
+            "name": "Amber B.",
+            "rating": 5.0,
+            "service": "ELECTRICAL HELP",
+            "date": "Sun, Nov 19",
+            "comment": "..."
+          }
+        ]
+        
+      },
+      {
+        "id": 8,
+        "img":"data:image/jpeg;base64,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",
+        "name": "Olivia's Tutoring Services",
+        "serviceType": "Education",
+        "location": "City H",
+        "availability": "Weekdays",
+        "rating": 4.5,
+        "hourlyRate": 30,
+        "about":"Hi, I'm [Teacher's Name]. I create engaging learning experiences to spark curiosity and growth. With [X years] of teaching, I prioritize a supportive classroom where every student thrives academically and personally. Let's embark on a learning journey together!",
+        "skill":"Hi, I'm [Teacher's Name]. I create engaging learning experiences to spark curiosity and growth. With [X years] of teaching, I prioritize a supportive classroom where every student thrives academically and personally. Let's embark on a learning journey together!",
+        "reviews":[
+          {
+            "name": "John S.",
+            "rating": 4.5,
+            "service": "Education",
+            "date": "Mon, Nov 22",
+            "comment": "The tutoring sessions were very helpful. Clear explanations and great support!"
+          },
+          {
+            "name": "Emily L.",
+            "rating": 5.0,
+            "service": "Education",
+            "date": "Thu, Nov 18",
+            "comment": "Tutoring with Emma was fantastic. She helped me understand complex topics easily."
+          },
+          {
+            "name": "Michael R.",
+            "rating": 4.8,
+            "service": "Education",
+            "date": "Wed, Nov 17",
+            "comment": "The learning materials provided were excellent. The instructor was knowledgeable and engaging."
+          },
+          {
+            "name": "Sophie M.",
+            "rating": 4.9,
+            "service": "Education",
+            "date": "Mon, Nov 15",
+            "comment": "Great online courses! The platform is user-friendly and the content is well-structured."
+          },
+          {
+            "name": "Alex K.",
+            "rating": 5.0,
+            "service": "Education",
+            "date": "Sat, Nov 13",
+            "comment": "The study groups were beneficial. Helped me prepare effectively for my exams."
+          }
+        ]
+        
+      },
+      {
+        "id": 10,
+        "img":"data:image/jpeg;base64,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",
+        "name": "Lily's Cooking Classes",
+        "serviceType": "Cooking",
+        "location": "City J",
+        "availability": "Weekends",
+        "rating": 4.6,
+        "hourlyRate": 40,
+        "about":"Welcome to our culinary world! At [Cooking Service Name], we're passionate about creating flavorful experiences. Our aim is to inspire and empower individuals through the art of cooking. With a focus on clear instructions, hands-on guidance, and a dash of creativity, we're here to make cooking enjoyable and accessible to everyone. Join us as we embark on a flavorful journey together!",
+        "skill":"Welcome to [Cooking Service Name], where culinary creativity meets expertise! Our team boasts versatile skills encompassing recipe creation, diverse cooking techniques, menu planning, ingredient mastery, efficient kitchen management, and a rich background in teaching. With a passion for making cooking accessible and enjoyable, we're dedicated to sharing our culinary journey with you. Join us for flavorful experiences and hands-on learning in the world of cooking!",
+        "reviews":[
+          {
+            "name": "Sarah D.",
+            "rating": 4.7,
+            "service": "Cooking",
+            "date": "Mon, Nov 22",
+            "comment": "The cooking classes were fantastic! Clear instructions and great guidance made the recipes easy to follow!"
+          },
+          {
+            "name": "Michael G.",
+            "rating": 5.0,
+            "service": "Cooking",
+            "date": "Thu, Nov 18",
+            "comment": "Cooking with Chef Marco was a delight! His expertise made even complex dishes manageable."
+          },
+          {
+            "name": "Rachel W.",
+            "rating": 4.9,
+            "service": "Cooking",
+            "date": "Wed, Nov 17",
+            "comment": "The cooking demonstrations were top-notch. Clear, informative, and the chef was highly knowledgeable."
+          },
+          {
+            "name": "David S.",
+            "rating": 4.8,
+            "service": "Cooking",
+            "date": "Mon, Nov 15",
+            "comment": "The online cooking courses were fantastic! Easy-to-follow recipes and engaging content."
+          },
+          {
+            "name": "Olivia P.",
+            "rating": 5.0,
+            "service": "Cooking",
+            "date": "Sat, Nov 13",
+            "comment": "Participating in cooking workshops was a game-changer! Helped me enhance my culinary skills effectively."
+          }
+        ]
+        
+      }
+    ]
+  }
